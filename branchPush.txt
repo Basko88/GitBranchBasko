@@ -1,0 +1,1 @@
+1. Создать ветку - git branch name, создать и сразу переключится – git checkout -b name.
